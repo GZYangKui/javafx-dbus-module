@@ -1,0 +1,1 @@
+PROJECT(javafx-dubs-module c)
